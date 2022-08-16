@@ -1,0 +1,4 @@
+<ehcache>
+    <diskStore path="java.io.tmpdir" />
+    <cache name="employeeCache" maxEntriesLocalHeap="200" timeToLiveSeconds="60" />
+</ehcache>
